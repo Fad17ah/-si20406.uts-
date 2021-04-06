@@ -1,0 +1,6 @@
+com/firstapp/coba/MainActivity.java
+ com.firstapp.coba.MainActivity
+ com.firstapp.coba.MainActivity$1
+ com.firstapp.coba.MainActivity$MyBrowser
+com/firstapp/coba/BuildConfig.java
+ com.firstapp.coba.BuildConfig
